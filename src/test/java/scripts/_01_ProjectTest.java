@@ -185,7 +185,6 @@ public class _01_ProjectTest extends Base {
             Waiter.pause(3);
             submitButton.click();
         }
-
     }
 
 
